@@ -7,7 +7,7 @@ Check out the website at: https://leeannachen.github.io/MotheringNature/
 # Preview
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/51209872/165205413-9846710d-5350-4d37-b57f-11a4994f059e.png">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/51209872/165205640-7727779a-524d-4269-a57f-78aec0e6d2eb.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/51209872/165207833-558e0df5-5cff-4fc2-bf0e-a8c284dee8cb.png">
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/51209872/165205670-8a07e108-daa9-423f-8508-42ed956eeee3.png">
 
