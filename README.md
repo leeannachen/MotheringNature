@@ -1,4 +1,4 @@
-# Mothering Nature 
+# Welcome!
 
 This is my final project for ENGL 287: Literature and the Future. The website highlights the works of Neri Oxman and details how her project Aguahoja is in conversation with the class readings and concepts. 
 
